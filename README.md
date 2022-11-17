@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working in company which specialized in water supply system
 - 🌱 I’m currently learning qa stuff
-- 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities 
+- 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities in QA live)) 
 
