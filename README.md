@@ -5,7 +5,7 @@
 - 🔭 I’m currently working in company which specialized in water supply system
 - 🌱 I’m currently learning qa stuff
 - 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities in QA live)) 
--           Test case
+        Test case
 -  Title: Opportunity to recieve QA Engineer work
 -  STR: 1.Investigation QA stuff
         2.Work as hard as possible
