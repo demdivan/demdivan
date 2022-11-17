@@ -2,8 +2,7 @@
 
 [![Linkedin: ivandemidovich](https://img.shields.io/badge/-ivandemidovich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-demidovich/)](https://www.linkedin.com/in/ivan-demidovich/)
 
-- 🔭 I’m currently working on water supply system
+- 🔭 I’m currently working in company which specialized in water supply system
 - 🌱 I’m currently learning qa stuff
 - 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities 
 
--->
