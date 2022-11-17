@@ -5,8 +5,5 @@
 - 🔭 I’m currently working on water supply system
 - 🌱 I’m currently learning qa stuff
 - 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities 
-<a- 📫 How to reach me: you can find my in href="https://www.instagram.com/vano9313//">
-  <img align="left" alt="Demidovich Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
-</a>
 
 -->
