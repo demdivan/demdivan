@@ -5,12 +5,12 @@
 - 🔭 I’m currently working in company which specialized in water supply system
 - 🌱 I’m currently learning qa stuff
 - 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities in QA live)) 
-<div        Test case> </div>
+-       Test case
 -  Title: Opportunity to recieve QA Engineer work
--  STR: 1.Investigation QA stuff
-        2.Work as hard as possible
-        3.Pass V.Ksendov's course
-        4.Pass an interiew
+-  STR: -1.Investigation QA stuff
+        -2.Work as hard as possible
+        -3.Pass V.Ksendov's course
+        -4.Pass an interiew
 -  Expected result: working QA Engineer
 -  Severity: critical
 -  Attachments: books,habr,youtube,course.
