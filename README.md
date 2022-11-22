@@ -7,14 +7,14 @@
 - 🌱 I’m currently learning qa stuff
 - 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities in QA live)) 
     <p> Test case </p>
--  Title: Opportunity to recieve QA Engineer work
--  STR: 
+<p>-  Title: Opportunity to recieve QA Engineer work</p>
+<p>-  STR: </p>
 <p>1.Investigation QA stuff</p>
 <p>2.Work as hard as possible</p>
 <p>3.Pass V.Ksendov's course </p>
 <p>4.Pass an interiew </p>
--  Expected result: working QA Engineer
--  Severity: critical
--  Attachments: books,habr,youtube,course.
+<p>-Expected result: working QA Engineer</p>
+<p>-Severity: critical</p>
+<p>-Attachments: books,habr,youtube,course.</p>
  
 
