@@ -8,7 +8,8 @@
 - 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities in QA live)) 
     <p> Test case </p>
 -  Title: Opportunity to recieve QA Engineer work
--  STR: 1.Investigation QA stuff
+-  STR: 
+<p> 1.Investigation QA stuff </p>
         2.Work as hard as possible
         3.Pass V.Ksendov's course
         4.Pass an interiew
