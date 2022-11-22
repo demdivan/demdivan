@@ -9,11 +9,10 @@
     <p> Test case </p>
 -  Title: Opportunity to recieve QA Engineer work
 -  STR: 
-<p>
-   1.Investigation QA stuff 
-   2.Work as hard as possible
-   3.Pass V.Ksendov's course 
-   4.Pass an interiew </p>
+<p>1.Investigation QA stuff</p>
+<p>2.Work as hard as possible</p>
+<p>3.Pass V.Ksendov's course </p>
+<p>4.Pass an interiew </p>
 -  Expected result: working QA Engineer
 -  Severity: critical
 -  Attachments: books,habr,youtube,course.
