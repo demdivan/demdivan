@@ -6,7 +6,7 @@
 - 🔭 I’m currently working in company which specialized in water supply system
 - 🌱 I’m currently learning qa stuff
 - 👯 I'm looking to collaborate with company which give me the opportunity to achieve all my capabilities in QA live)) 
-    <p> TEST CASE </p>
+<h3 align="left"> TEST CASE </h3>
 <p>-  Title: Opportunity to recieve QA Engineer work</p>
 <p>-  STR: </p>
 <p>1.Investigation QA stuff</p>
