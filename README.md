@@ -1,6 +1,7 @@
 <h2> Hi, I'm Ivan Demidovich!👋 <img src="https://s.tvurl.co/img/get/6c13aa99-2ee2-4354-b652-ade900a5d3cd/2.png" width="50"></h2>
 
 [![Linkedin: ivandemidovich](https://img.shields.io/badge/-ivandemidovich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-demidovich/)](https://www.linkedin.com/in/ivan-demidovich/)
+<a href="https://t.me/demdivan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="https://t.me/demdivan" height="40" width="40" /></a>
 
 - 🔭 I’m currently working in company which specialized in water supply system
 - 🌱 I’m currently learning qa stuff
