@@ -13,7 +13,7 @@
 <p>2.Work as hard as possible</p>
 <p>3.Pass V.Ksendzov's course </p>
 <p>4.Pass an interview </p>
-<p>-Expected result: working QA Engineer</p>
+<p>-Expected result: receive QA Engineer offer</p>
 <p>-Severity: critical</p>
 <p>-Attachments: books,habr,youtube,course.</p>
  
